@@ -1,0 +1,7 @@
+60
+Hyderabad| 20
+Calicut| 20
+Kochi| 50
+Chennai| 40
+Mumbai| 35
+Kolkata| 20
