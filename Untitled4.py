@@ -69,7 +69,7 @@ for x in range(1,N):
     print x, address[x]
 
 # Google Maps API
-api_key = 'AIzaSyCYPyNLAA25ZGbe7-gzuipegly6Zjfp6Ko'
+api_key = 'XXX-YYY'
 gmaps = googlemaps.Client(key= api_key)
 
 # Set Origins and Destinations equal to Address to get Distance Matrix
